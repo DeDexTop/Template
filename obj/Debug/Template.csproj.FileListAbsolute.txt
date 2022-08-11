@@ -1,0 +1,17 @@
+C:\Project\Template\bin\Debug\Template.exe.config
+C:\Project\Template\bin\Debug\Template.exe
+C:\Project\Template\bin\Debug\Template.pdb
+C:\Project\Template\obj\Debug\Template.csproj.AssemblyReference.cache
+C:\Project\Template\obj\Debug\Template.csproj.SuggestedBindingRedirects.cache
+C:\Project\Template\obj\Debug\Template.Form1.resources
+C:\Project\Template\obj\Debug\Template.Properties.Resources.resources
+C:\Project\Template\obj\Debug\Template.csproj.GenerateResource.cache
+C:\Project\Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
+C:\Project\Template\obj\Debug\Template.exe
+C:\Project\Template\obj\Debug\Template.pdb
+C:\Project\Template\obj\Debug\Template.Forms.Costumer.resources
+C:\Project\Template\obj\Debug\Template.Forms.Notification.resources
+C:\Project\Template\obj\Debug\Template.Forms.Order.resources
+C:\Project\Template\obj\Debug\Template.Forms.Product.resources
+C:\Project\Template\obj\Debug\Template.Forms.Reporting.resources
+C:\Project\Template\obj\Debug\Template.Forms.Settings.resources
